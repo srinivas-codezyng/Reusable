@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double ReusableVersionNumber;
-FOUNDATION_EXPORT const unsigned char ReusableVersionString[];
+FOUNDATION_EXPORT double ReusablePodVersionNumber;
+FOUNDATION_EXPORT const unsigned char ReusablePodVersionString[];
 

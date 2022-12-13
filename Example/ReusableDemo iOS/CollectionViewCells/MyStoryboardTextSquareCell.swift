@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Reusable
+import ReusablePod
 
 /**
  * This one can be either `NibReusable` or just `Reusable` it doesn't really matter,

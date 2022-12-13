@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Reusable
+import ReusablePod
 
 /**
  * This view is reusable and has a `reuseIdentifier` (as it's a CollectionViewCell

@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Reusable
+import ReusablePod
 
 /**
  * This view is loaded from a NIB, and is used as the File's Owner

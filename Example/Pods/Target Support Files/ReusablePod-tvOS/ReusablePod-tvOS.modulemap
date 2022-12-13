@@ -1,0 +1,6 @@
+framework module ReusablePod {
+  umbrella header "ReusablePod-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

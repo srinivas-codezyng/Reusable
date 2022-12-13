@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Reusable
+import ReusablePod
 
 class MyCustomWidget: UIView, NibOwnerLoadable {
   @IBInspectable var rectColor: UIColor? {

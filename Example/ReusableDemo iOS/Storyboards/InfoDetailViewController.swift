@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Reusable
+import ReusablePod
 
 final class InfoDetailViewController: UIViewController, StoryboardSceneBased {
   static let sceneStoryboard = UIStoryboard(name: "InfoViewController", bundle: nil)

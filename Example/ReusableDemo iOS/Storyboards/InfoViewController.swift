@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Reusable
+import ReusablePod
 
 final class InfoViewController: UIViewController, StoryboardBased {
   @IBOutlet private weak var infoLabel: UILabel!
